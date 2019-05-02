@@ -1,0 +1,11 @@
+com\agencyReport\domain\ADReportType.class
+com\agencyReport\constants\ModuleConstants$CsvConfigurations.class
+com\agencyReport\dto\ADReaderInputType.class
+com\agencyReport\ReadWrite.class
+agencyReportRunner.class
+com\agencyReport\calculationModel\AgencyCalculation.class
+com\agencyReport\dto\AgencyData.class
+com\agencyReport\domain\IncomeReport.class
+com\agencyReport\type\CsvImpl.class
+com\agencyReport\constants\ModuleConstants.class
+com\agencyReport\dto\CurrencyEnum.class
